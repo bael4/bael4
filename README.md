@@ -1,16 +1,43 @@
-### Hi there 👋
+<hr>
+<h1 align="center">Hi, I'm Bael Ryspekov
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">I'm a beginner FrontEnd developer from  🇰🇬 </h2>
 
-<!--
-**bael4/bael4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 
 
-Here are some ideas to get you started:
+<h3 align="center">Technology stack ⚔️ :</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML-992c0e?style=for-the-badge&logo=HTML5) 
+![CSS](https://img.shields.io/badge/-Css-0e4a99?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/-sass-3b2a2a?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javaScript)
+![React](https://img.shields.io/badge/-React-0c75ed?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-620ced?style=for-the-badge&logo=Redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0f50db?style=for-the-badge&logo=TypeScript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-720fdb?style=for-the-badge&logo=bootstrap)
+#
+<h3 align="center">Tools ⚙️:</h3>
+ 
+
+
+![Git](https://img.shields.io/badge/-Git-d6410b?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)
+![heroku](https://img.shields.io/badge/-heroku-590c82?style=for-the-badge&logo=heroku)
+![figma](https://img.shields.io/badge/-figma-17c24a?style=for-the-badge&logo=figma)
+#
+
+<h3 align="center"> Сontact with me 🙋🏾‍♂️:</h3>
+
+<a href='https://www.instagram.com/themadeinkg/'>![instagram](https://img.shields.io/badge/-instagram-eb448c?style=for-the-badge&logo=instagram)</a>
+<a href='https://www.linkedin.com/in/bael-ryspekov-6b4023233/'>![linkedin](https://img.shields.io/badge/-linkedin-1912de?style=for-the-badge&logo=linkedin)</a>
+<a href='https://t.me/hejhn'>![telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)</a>
+
+<hr>
+
+
+
+
+
+
+
+
