@@ -12,7 +12,7 @@
 ![Sass](https://img.shields.io/badge/-sass-3b2a2a?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javaScript)
 ![React](https://img.shields.io/badge/-React-0c75ed?style=for-the-badge&logo=React)
-![ReactNative](https://img.shields.io/badge/-React-0c75ed?style=for-the-badge&logo=React)
+![React Native](https://img.shields.io/badge/-React-0c75ed?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-620ced?style=for-the-badge&logo=Redux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-720fdb?style=for-the-badge&logo=bootstrap)
 #
