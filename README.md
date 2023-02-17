@@ -1,7 +1,7 @@
 <hr>
 <h1 align="center">Hi, I'm Bael Ryspekov
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">I'm a Front End developer from  🇰🇬 </h2>
+<h2 align="center">I'm a Mobile  developer from  🇰🇬 </h2>
 
 # 
 
