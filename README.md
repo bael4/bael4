@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/-React-0c75ed?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-620ced?style=for-the-badge&logo=Redux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-720fdb?style=for-the-badge&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-720fdb?style=for-the-badge&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0e4a99?style=for-the-badge&logo=TypeScript)
 #
 <h3 align="center">Tools ⚙️:</h3>
  
