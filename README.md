@@ -9,11 +9,6 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-992c0e?style=for-the-badge&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-Css-0e4a99?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-sass-3b2a2a?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javaScript)
-![React](https://img.shields.io/badge/-React-0c75ed?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-620ced?style=for-the-badge&logo=Redux)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-720fdb?style=for-the-badge&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0e4a99?style=for-the-badge&logo=TypeScript)
 #
 <h3 align="center">Tools ⚙️:</h3>
