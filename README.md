@@ -1,25 +1,8 @@
 <hr>
 <h1 align="center">Hi, I'm Bael Ryspekov
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!-- <h2 align="center">I'm a Mobile  developer from  🇰🇬 </h2> -->
+<h2 align="center">I'm a Mobile  developer from  🇰🇬 </h2>
 
-# 
-
-<h3 align="center">Technology stack ⚔️ :</h3>
-
-![HTML](https://img.shields.io/badge/-HTML-992c0e?style=for-the-badge&logo=HTML5) 
-![CSS](https://img.shields.io/badge/-Css-0e4a99?style=for-the-badge&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0e4a99?style=for-the-badge&logo=TypeScript)
-#
-<h3 align="center">Tools ⚙️:</h3>
- 
-
-
-![Git](https://img.shields.io/badge/-Git-d6410b?style=for-the-badge&logo=git)
-![Git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)
-![heroku](https://img.shields.io/badge/-heroku-590c82?style=for-the-badge&logo=heroku)
-![figma](https://img.shields.io/badge/-figma-17c24a?style=for-the-badge&logo=figma)
-#
 
 <h3 align="center"> Сontact with me 🙋🏾‍♂️:</h3>
 
